@@ -11,13 +11,16 @@ toc: true
 toc_sticky: true
  
 date: 2021-07-18
-last_modified_at: 2021-07-20
+last_modified_at: 2021-07-21
 ---
 
 # 2020 카카오 인턴십 코딩 테스트 문제 1. 키패드 누르기
 ## 문제 출처
 https://programmers.co.kr/learn/courses/30/lessons/67256
 
+<br/>
+
+## 문제 해설 
 <br/>
 
 ``` python
