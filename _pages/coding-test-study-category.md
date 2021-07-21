@@ -4,4 +4,5 @@ permalink: /category/CodingTestStudy/
 layout: category
 author_profile: true
 taxonomy: Coding Test Study
+siderbar_main: true
 ---
