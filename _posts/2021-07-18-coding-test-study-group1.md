@@ -3,7 +3,7 @@ title:  "코딩 테스트 스터디 1일차 - 공통문제"
 excerpt: "2020 카카오 인턴십 코딩 테스트 문제 1. 키패드 누르기"
 
 categories:
-  - Coding Test Study
+  - CodingTestStudy
 tags:
   - [Python, CodingTest]
 
