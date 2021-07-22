@@ -1,6 +1,6 @@
 ---
 title: "C++ 프로그래밍"
-layout: archive
+layout: default
 permalink: /categories/CodingTestStudy
 # author_profile: true
 # sidebar_main: true
