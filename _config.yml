@@ -289,4 +289,4 @@ defaults:
       related: true
       sidebar_main: true
 
-category_list: [ nodejs, javascript, tip, diary, linux, chatbot, php ,publishing, jekyll, sql, error ]
+# category_list: [ nodejs, javascript, tip, diary, linux, chatbot, php ,publishing, jekyll, sql, error ]
