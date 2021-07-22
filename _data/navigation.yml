@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "Home"
-    url: /
-  - title: "Category"
-    url: /categories
+  # - title: "Home"
+  #   url: /
+  # - title: "Category"
+  #   url: /categories
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
