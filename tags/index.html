@@ -1,9 +1,11 @@
 ---
-layout: tag
-permalink : /tags
+title : Posts by tag
+layout: tags
+permalink : /tags/
+author_profile: true
 ---
 
-{{ content }}
+{% comment %} {{ content }}
 
 {% assign tags_max = 0 %}
 {% for tag in site.tags %}
@@ -41,4 +43,4 @@ permalink : /tags
       </section>
     {% endif %}
   {% endfor %}
-{% endfor %}
+{% endfor %} {% endcomment %}
