@@ -1,6 +1,6 @@
 ---
-title:  "2020 카카오 인턴십 코딩 테스트 문제 1. 키패드 누르기"
-# excerpt: "2020 카카오 인턴십 코딩 테스트 문제 1. 키패드 누르기"
+title:  "[Python] 키패드 누르기"
+excerpt: "2020 카카오 인턴십 코딩 테스트 문제 1. 키패드 누르기"
 
 categories:
   - programmers
