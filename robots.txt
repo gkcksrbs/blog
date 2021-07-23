@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-Disallow: /private/
-Sitemap: http://gkcksrbs.github.io/blog/sitemap.xml
+Sitemap: https://gkcksrbs.github.io/blog/sitemap.xml
