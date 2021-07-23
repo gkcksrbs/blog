@@ -1,17 +1,17 @@
 ---
-title:  "코딩 테스트 스터디 1일차 - 공통문제"
-excerpt: "2020 카카오 인턴십 코딩 테스트 문제 1. 키패드 누르기"
+title:  "2020 카카오 인턴십 코딩 테스트 문제 1. 키패드 누르기"
+# excerpt: "2020 카카오 인턴십 코딩 테스트 문제 1. 키패드 누르기"
 
 categories:
-  - CodingTestStudy
+  - programmers
 tags:
-  - [Python, CodingTest]
+  - [python, codingTest, programmers]
 
 toc: true
 toc_sticky: true
  
 date: 2021-07-18
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-23
 ---
 
 # 2020 카카오 인턴십 코딩 테스트 문제 1. 키패드 누르기
