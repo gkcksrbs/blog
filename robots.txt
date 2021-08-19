@@ -1,4 +1,4 @@
 User-agent: *
-Allow: /blog
+Allow: /blog/
 
-Sitemap: {{ '/sitemap.xml' | relative_url | prepend: site.url }}
+Sitemap: http://gkcksrbs.github.io/blog/sitemap.xml
